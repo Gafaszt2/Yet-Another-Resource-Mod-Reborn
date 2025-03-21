@@ -1,0 +1,66 @@
+[	
+	{
+		"name": "Orcas",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Plains"],
+		"gold": 1,
+		"food": 1,
+		"improvement": "Camp",
+		"improvementStats": {"gold": 1},
+		"uniques": ["Generated on every [300] tiles <in [Coast] tiles>","Generated on every [300] tiles <in [Ocean] tiles>"]
+	},
+	{
+		"name": "Saiga",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains"],
+		"food": 1,
+		"improvement": "Camp",
+		"improvementStats": {"food": 1},
+		"uniques": ["Generated on every [300] tiles <in [Plains] tiles>"]
+	},
+	{
+		"name": "Yak",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Tundra"],
+		"food": 1,
+		"improvement": "Pasture",
+		"improvementStats": {"food": 1},
+		"uniques": ["Generated on every [60] tiles <in [Tundra] tiles>"]
+	},
+	{
+		"name": "Camel",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Desert"],
+		"food": 1,
+		"improvement": "Camp",
+		"improvementStats": {"food": 1},
+		"uniques": ["Generated on every [20] tiles <in [Desert] tiles>"]
+	},
+        {
+		"name": "Lobster",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Ocean","Coast"],
+		"gold": 1,
+		"improvement": "Fishing Boats",
+		"improvementStats": {"gold": 1},
+		"uniques": ["Generated on every [160] tiles <in [Coast] tiles>","Generated on every [80] tiles <in [Ocean] tiles>"]
+	},
+        
+    {
+		"name": "Cactus",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Desert"],
+		"food": 1,
+		"improvement": "Farm",
+		"improvementStats": {"food": 1},
+	},
+    {
+		"name": "Shark",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Coast","Ocean"],
+		"food": 1,
+        "production": 1,
+		"improvement": "Fishing Boats",
+		"improvementStats": {"gold": 2},
+	},
+]
