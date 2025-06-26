@@ -10,6 +10,16 @@
 		"uniques": ["Generated on every [300] tiles <in [Coast] tiles>","Generated on every [300] tiles <in [Ocean] tiles>"]
 	},
 	{
+		"name": "Seals",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Coast"],
+		"gold": 1,
+		"food": 1,
+		"improvement": "Fishing Boats",
+		"improvementStats": {"gold": 1},
+		"uniques": ["Generated on every [300] tiles <in [Coast] tiles>"]
+	},
+	{
 		"name": "Saiga",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Plains"],
@@ -17,6 +27,65 @@
 		"improvement": "Camp",
 		"improvementStats": {"food": 1},
 		"uniques": ["Generated on every [300] tiles <in [Plains] tiles>"]
+	},
+	{
+		"name": "Salmon",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Coast"],
+		"food": 1,
+		"improvement": "Fishing Boats",
+		"improvementStats": {"food": 1},
+		"uniques": ["Generated on every [300] tiles <in [Coast] tiles>"]
+	},
+	{
+		"name": "Eel",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Ocean","Lakes"],
+		"food": 1,
+		"improvedBy": ["Fishing Boats", "Camp"],
+		"improvementStats": {"food": 1},
+		"uniques": ["Generated on every [300] tiles <in [Ocean] tiles>","Generated on every [300] tiles <in [Lakes] tiles>"]
+	},
+	{
+		"name": "Auk",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Tundra","Snow"],
+		"food": 1,
+		"improvement": "Camp",
+		"improvementStats": {"food": 1},
+		"uniques": [
+		"Generated on every [300] tiles <in [Tundra] tiles>","Generated on every [200] tiles <in [Snow] tiles>"]
+	},
+	{
+		"name": "Saffron",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Plains"],
+		"culture": 1,
+		"improvement": "Plantation",
+		"improvementStats": {"happiness": 1},
+		"uniques": [
+		"Generated on every [300] tiles <in [Plains] tiles>"]
+	},
+	{
+		"name": "Opium",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Plains"],
+		"culture": 1,
+		"improvement": "Plantation",
+		"improvementStats": {"happiness": 1},
+		"uniques": [
+		"Generated on every [300] tiles <in [Plains] tiles>"]
+	},
+	{
+		"name": "Obsidian",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Hill","Desert","Tundra","Snow"],
+		"gold": 1,
+		"production": 1,
+		"improvement": "Mine",
+		"improvementStats": {"food": 1},
+		"uniques": ["Generated on every [300] tiles <in [Snow] tiles>","Generated on every [300] tiles <in [Desert] tiles>",
+		"Generated on every [300] tiles <in [Hill] tiles>","Generated on every [300] tiles <in [Tundra] tiles>"]
 	},
 	{
 		"name": "Yak",
@@ -63,4 +132,76 @@
 		"improvement": "Fishing Boats",
 		"improvementStats": {"gold": 2},
 	},
+	{
+		"name": "Cocoa",
+		"resourceType": "Luxury",
+		"happiness": 1,
+		"uniques": ["Can only be created by Mercantile City-States"]
+	},
+	{
+		"name": "Coconut",
+		"resourceType": "Luxury",
+		"happiness": 1,
+		"uniques": ["Can only be created by Mercantile City-States"]
+	},
+	{
+		"name": "Coral",
+		"resourceType": "Luxury",
+		"happiness": 1,
+		"uniques": ["Can only be created by Mercantile City-States"]
+	},
+	{
+		"name": "Exotic Meat",
+		"resourceType": "Luxury",
+		"happiness": 1,
+		"uniques": ["Can only be created by Mercantile City-States"]
+	},
+	{
+		"name": "Pastries",
+		"resourceType": "Luxury",
+		"happiness": 1,
+		"uniques": ["Can only be created by Mercantile City-States"]
+	},
+	{
+		"name": "Pelt",
+		"resourceType": "Luxury",
+		"happiness": 1,
+		"uniques": ["Can only be created by Mercantile City-States"]
+	},
+	{
+		"name": "Silk",
+		"resourceType": "Luxury",
+		"happiness": 1,
+		"uniques": ["Can only be created by Mercantile City-States"]
+	},
+	{
+		"name": "Sugar Cane",
+		"resourceType": "Luxury",
+		"happiness": 1,
+		"uniques": ["Can only be created by Mercantile City-States"]
+	},
+	{
+		"name": "Wool",
+		"resourceType": "Luxury",
+		"happiness": 1,
+		"uniques": ["Can only be created by Mercantile City-States"]
+	},
+	{
+		"name": "Tyrian Dye",
+		"resourceType": "Luxury",
+		"happiness": 1,
+		"uniques": ["Can only be created by Mercantile City-States"]
+	},
+	{
+		"name": "Coca Leaf",
+		"resourceType": "Luxury",
+		"happiness": 1,
+		"uniques": ["Can only be created by Mercantile City-States"]
+	},
+	{
+		"name": "Carpets",
+		"resourceType": "Luxury",
+		"happiness": 1,
+		"uniques": ["Can only be created by Mercantile City-States"]
+	}
 ]
