@@ -2,10 +2,10 @@
 	{
 		"name": "Orcas",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Plains"],
+		"terrainsCanBeFoundOn": ["Coast"],
 		"gold": 1,
 		"food": 1,
-		"improvement": "Camp",
+		"improvement": "Fishing Boats",
 		"improvementStats": {"gold": 1},
 		"uniques": ["Generated on every [300] tiles <in [Coast] tiles>","Generated on every [300] tiles <in [Ocean] tiles>"]
 	},
