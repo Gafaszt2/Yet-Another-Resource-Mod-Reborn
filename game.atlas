@@ -74,142 +74,149 @@ ResourceIcons/Exotic Meat
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Ivory
+ResourceIcons/Goanna
   rotate: false
   xy: 544, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Lobster
+ResourceIcons/Ivory
   rotate: false
   xy: 544, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Obsidian
+ResourceIcons/Lobster
   rotate: false
   xy: 652, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Opium
+ResourceIcons/Obsidian
   rotate: false
   xy: 652, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Orcas
+ResourceIcons/Opium
   rotate: false
   xy: 760, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Pastries
+ResourceIcons/Orcas
   rotate: false
   xy: 760, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Pelt
+ResourceIcons/Pastries
   rotate: false
   xy: 868, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Saffron
+ResourceIcons/Pelt
   rotate: false
   xy: 868, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Saiga
+ResourceIcons/Saffron
   rotate: false
   xy: 976, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Salmon
+ResourceIcons/Saiga
   rotate: false
   xy: 976, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Seals
+ResourceIcons/Salmon
   rotate: false
   xy: 1084, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Shark
+ResourceIcons/Seals
   rotate: false
   xy: 1084, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Silk
+ResourceIcons/Shark
   rotate: false
   xy: 1192, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Sugar Cane
+ResourceIcons/Silk
   rotate: false
   xy: 1192, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Tyrian Dye
+ResourceIcons/Sugar Cane
   rotate: false
   xy: 1300, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Whales
+ResourceIcons/Tyrian Dye
   rotate: false
   xy: 1300, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Wool
+ResourceIcons/Whales
   rotate: false
   xy: 1408, 148
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-ResourceIcons/Yak
+ResourceIcons/Wool
   rotate: false
   xy: 1408, 40
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+ResourceIcons/Yak
+  rotate: false
+  xy: 1516, 148
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Auk
   rotate: false
-  xy: 1516, 212
+  xy: 1516, 104
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cactus
   rotate: false
-  xy: 1516, 168
+  xy: 1624, 212
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
@@ -223,91 +230,98 @@ TileSets/FantasyHex/Tiles/Camel
   index: -1
 TileSets/FantasyHex/Tiles/Eel
   rotate: false
-  xy: 1556, 212
+  xy: 1516, 60
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Goanna
+  rotate: false
+  xy: 1556, 104
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ivory
   rotate: false
-  xy: 1516, 132
+  xy: 1624, 176
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ivory+Camp
   rotate: false
-  xy: 1596, 220
+  xy: 1556, 68
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ivory+Camp2
   rotate: false
-  xy: 1516, 96
+  xy: 1664, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ivory2+Camp
   rotate: false
-  xy: 1516, 96
+  xy: 1664, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ivory+Camp3
   rotate: false
-  xy: 84, 4
+  xy: 1704, 220
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ivory3+Camp
   rotate: false
-  xy: 84, 4
+  xy: 1704, 220
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ivory2
   rotate: false
-  xy: 44, 4
+  xy: 1664, 220
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ivory3
   rotate: false
-  xy: 1556, 176
+  xy: 44, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Lobster
   rotate: false
-  xy: 1556, 140
+  xy: 84, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Lobster2
   rotate: false
-  xy: 1596, 184
+  xy: 1704, 184
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Obsidian
   rotate: false
-  xy: 1636, 212
+  xy: 1744, 212
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Opium
   rotate: false
-  xy: 1516, 52
+  xy: 1784, 212
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
@@ -321,49 +335,49 @@ TileSets/FantasyHex/Tiles/Orcas
   index: -1
 TileSets/FantasyHex/Tiles/Saffron
   rotate: false
-  xy: 1556, 96
+  xy: 1824, 212
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Saiga
   rotate: false
-  xy: 1596, 148
+  xy: 164, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Salmon
   rotate: false
-  xy: 1636, 168
+  xy: 1864, 212
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Seals
   rotate: false
-  xy: 1676, 212
+  xy: 1904, 212
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Shark
   rotate: false
-  xy: 164, 4
+  xy: 204, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Whales
   rotate: false
-  xy: 1556, 60
+  xy: 1944, 220
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Yak
   rotate: false
-  xy: 1596, 112
+  xy: 244, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0

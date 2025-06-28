@@ -29,6 +29,15 @@
 		"uniques": ["Generated on every [300] tiles <in [Plains] tiles>"]
 	},
 	{
+		"name": "Goanna",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains"],
+		"food": 1,
+		"improvement": "Camp",
+		"improvementStats": {"food": 1},
+		"uniques": ["Generated on every [300] tiles <in [Plains] tiles>"]
+	},
+	{
 		"name": "Salmon",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Coast"],
